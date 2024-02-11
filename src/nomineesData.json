@@ -1,0 +1,94 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Best Picture",
+      "nominees": [
+        {
+          "name": "Nominee 1",
+          "image": "https://example.com/nominee1.jpg"
+        },
+        {
+          "name": "Nominee 2",
+          "image": "https://example.com/nominee2.jpg"
+        },
+        {
+          "name": "Nominee 3",
+          "image": "https://example.com/nominee3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Best Actor",
+      "nominees": [
+        {
+          "name": "Actor 1",
+          "image": "https://example.com/actor1.jpg"
+        },
+        {
+          "name": "Actor 2",
+          "image": "https://example.com/actor2.jpg"
+        },
+        {
+          "name": "Actor 3",
+          "image": "https://example.com/actor3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Best Actress",
+      "nominees": [
+        {
+          "name": "Actress 1",
+          "image": "https://example.com/actress1.jpg"
+        },
+        {
+          "name": "Actress 2",
+          "image": "https://example.com/actress2.jpg"
+        },
+        {
+          "name": "Actress 3",
+          "image": "https://example.com/actress3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Best Actress",
+      "nominees": [
+        {
+          "name": "Actress 1",
+          "image": "https://example.com/actress1.jpg"
+        },
+        {
+          "name": "Actress 2",
+          "image": "https://example.com/actress2.jpg"
+        },
+        {
+          "name": "Actress 3",
+          "image": "https://example.com/actress3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Best Actress",
+      "nominees": [
+        {
+          "name": "Actress 1",
+          "image": "https://example.com/actress1.jpg"
+        },
+        {
+          "name": "Actress 2",
+          "image": "https://example.com/actress2.jpg"
+        },
+        {
+          "name": "Actress 3",
+          "image": "https://example.com/actress3.jpg"
+        }
+      ]
+    }
+  ]
+}
